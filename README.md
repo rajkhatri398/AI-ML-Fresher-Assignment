@@ -33,7 +33,7 @@ The dataset includes customer demographics, service usage, and billing informati
 
 1. Clone the GitHub repository:
    ```bash
-   git clone <your-github-repository-link>
+   git clone <https://github.com/rajkhatri398/AI-ML-Fresher-Assignment>
 
 2. Open the Jupyter Notebook:
    jupyter notebook "Telco Customer Churn.ipynb"
