@@ -51,7 +51,7 @@ The dataset includes customer demographics, service usage, and billing informati
 
     - Evaluate model performance
 
-##Data Preparation
+## Data Preparation
 
   - Loaded the dataset using Pandas
 
@@ -61,7 +61,7 @@ The dataset includes customer demographics, service usage, and billing informati
 
   - Split the data into training and testing sets
 
-##Models Used
+## Models Used
 
 The following machine learning models were implemented:
 
@@ -71,7 +71,7 @@ Decision Tree Classifier
 
 Although only one model was required, both models were trained to compare performance.
 
-##Model Evaluation
+## Model Evaluation
 
 Models were evaluated using:
 
@@ -81,8 +81,8 @@ Confusion Matrix
 
 Precision, Recall, and F1-score
 
-##Results
-##Decision Tree Classifier
+## Results
+## Decision Tree Classifier
 
 Accuracy: 78%
 
@@ -94,7 +94,7 @@ Churn F1-score: 0.45
 
 The Decision Tree performs well for non-churn customers but misses many actual churn customers.
 
-##Logistic Regression
+## Logistic Regression
 
 Accuracy: 80%
 
@@ -106,7 +106,7 @@ Churn F1-score: 0.57
 
 Logistic Regression detects more churn customers and provides a better balance between precision and recall.
 
-##Final Conclusion
+## Final Conclusion
 
 Logistic Regression is the preferred model for this churn prediction problem.
 Even though both models show similar accuracy, Logistic Regression performs significantly better in identifying churn customers, which is more important for real-world business decisions.
