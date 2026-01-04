@@ -36,9 +36,10 @@ The dataset includes customer demographics, service usage, and billing informati
    git clone <https://github.com/rajkhatri398/AI-ML-Fresher-Assignment>
 
 2. Open the Jupyter Notebook:
+   
    jupyter notebook "Telco Customer Churn.ipynb"
 
-3. Run the notebook cells step by step to:
+4. Run the notebook cells step by step to:
 
     - Load and explore the dataset
    
