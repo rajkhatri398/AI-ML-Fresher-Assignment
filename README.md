@@ -39,27 +39,27 @@ The dataset includes customer demographics, service usage, and billing informati
 
 3. Run the notebook cells step by step to:
 
-    Load and explore the dataset
+    - Load and explore the dataset
    
-    Handle missing values
+    - Handle missing values
 
-    Encode categorical variables
+    - Encode categorical variables
 
-    Split the dataset into training and test sets
+    - Split the dataset into training and test sets
 
-    Train machine learning models
+    - Train machine learning models
 
-    Evaluate model performance
+    - Evaluate model performance
 
 ##Data Preparation
 
-    Loaded the dataset using Pandas
+  - Loaded the dataset using Pandas
 
-    Checked and handled missing values
+  - Checked and handled missing values
 
-    Converted categorical features into numerical format
+  - Converted categorical features into numerical format
 
-    Split the data into training and testing sets
+  - Split the data into training and testing sets
 
 ##Models Used
 
