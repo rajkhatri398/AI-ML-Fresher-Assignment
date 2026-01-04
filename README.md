@@ -1,1 +1,0 @@
-# AI-ML-Fresher-Assignment
