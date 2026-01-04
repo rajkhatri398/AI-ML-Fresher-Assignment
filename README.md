@@ -65,9 +65,9 @@ The dataset includes customer demographics, service usage, and billing informati
 
 The following machine learning models were implemented:
 
-Logistic Regression
+ - Logistic Regression
 
-Decision Tree Classifier
+ - Decision Tree Classifier
 
 Although only one model was required, both models were trained to compare performance.
 
@@ -75,34 +75,34 @@ Although only one model was required, both models were trained to compare perfor
 
 Models were evaluated using:
 
-Accuracy
+ - Accuracy
 
-Confusion Matrix
+ - Confusion Matrix
 
-Precision, Recall, and F1-score
+ - Precision, Recall, and F1-score
 
 ## Results
 ## Decision Tree Classifier
 
-Accuracy: 78%
+ - Accuracy: 78%
 
-Churn Precision: 63%
+ - Churn Precision: 63%
 
-Churn Recall: 35%
+ - Churn Recall: 35%
 
-Churn F1-score: 0.45
+ - Churn F1-score: 0.45
 
 The Decision Tree performs well for non-churn customers but misses many actual churn customers.
 
 ## Logistic Regression
 
-Accuracy: 80%
+ - Accuracy: 80%
 
-Churn Precision: 65%
+ - Churn Precision: 65%
 
-Churn Recall: 52%
+ - Churn Recall: 52%
 
-Churn F1-score: 0.57
+ - Churn F1-score: 0.57
 
 Logistic Regression detects more churn customers and provides a better balance between precision and recall.
 
