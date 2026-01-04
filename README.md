@@ -23,9 +23,11 @@ The dataset includes customer demographics, service usage, and billing informati
 ---
 
 ## Project Structure
+├── README.md
+
 ├── Telco Customer Churn.ipynb
 
-├── README.md
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 ---
 
